@@ -1,0 +1,64 @@
+# Compiled output
+build/
+bin/
+out/
+obj/
+*.exe
+*.o
+*.so
+*.dll
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Dependency directories
+Dependencies/
+vendor/
+
+# Compiled Python files
+__pycache__/
+
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+
+# System files
+.DS_Store
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+
+# Ignore generated files
+GeneratedFiles/
+
+# Ignore compiled output of Android app
+app/build/
+.gradle/
+local.properties
+
+# Ignore compiled output of desktop application
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Makefile
+cmake_install.cmake
+
+# Ignore C/C++ dependency files
+*.d
+
+# Ignore binaries
+server/server
+computer_client/computer_client
